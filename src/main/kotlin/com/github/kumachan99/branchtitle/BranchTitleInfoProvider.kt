@@ -1,4 +1,4 @@
-package com.example.branchtitle
+package com.github.kumachan99.branchtitle
 
 import com.intellij.openapi.Disposable
 import com.intellij.openapi.project.Project

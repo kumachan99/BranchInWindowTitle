@@ -31,7 +31,7 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <titleInfoProvider
-                implementation="com.example.branchtitle.BranchTitleInfoProvider"
+                implementation="com.github.kumachan99.branchtitle.BranchTitleInfoProvider"
                 order="first"/>
     </extensions>
 </idea-plugin>

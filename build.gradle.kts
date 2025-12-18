@@ -4,7 +4,7 @@ plugins {
     id("org.jetbrains.intellij.platform") version "2.2.1"
 }
 
-group = "com.example"
+group = "com.github.kumachan99"
 version = "1.0.0"
 
 repositories {
