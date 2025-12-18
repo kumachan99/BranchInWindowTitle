@@ -67,4 +67,4 @@ The plugin will be generated in `build/distributions/`.
 
 ## License
 
-MIT License
+See [LICENSE](LICENSE) file. Personal and commercial use allowed, redistribution prohibited.
