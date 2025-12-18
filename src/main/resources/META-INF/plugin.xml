@@ -1,0 +1,37 @@
+<idea-plugin>
+    <id>com.github.kumachan99.branchtitle</id>
+    <name>Branch in Window Title</name>
+    <vendor email="kumachan99@users.noreply.github.com" url="https://github.com/kumachan99/branch-window-title">kumachan99</vendor>
+
+    <description><![CDATA[
+    Displays the current Git branch name in the window title bar.
+    <br><br>
+    This plugin helps you easily identify which branch you're working on when switching between multiple project windows.
+    <br><br>
+    <b>Features:</b>
+    <ul>
+        <li>Shows Git branch name in window title</li>
+        <li>Automatically updates when switching branches</li>
+        <li>Supports multiple project windows</li>
+        <li>Handles detached HEAD state</li>
+    </ul>
+    ]]></description>
+
+    <change-notes><![CDATA[
+    <b>1.0.0</b>
+    <ul>
+        <li>Initial release</li>
+        <li>Display Git branch name in window title</li>
+        <li>Auto-update on branch change</li>
+    </ul>
+    ]]></change-notes>
+
+    <depends>com.intellij.modules.platform</depends>
+    <depends>Git4Idea</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <titleInfoProvider
+                implementation="com.example.branchtitle.BranchTitleInfoProvider"
+                order="first"/>
+    </extensions>
+</idea-plugin>
