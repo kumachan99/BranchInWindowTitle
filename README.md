@@ -1,4 +1,4 @@
-# Branch in Window Title
+# Branch Name in Title
 
 JetBrains IDE plugin that displays the current Git branch name in the window title bar.
 

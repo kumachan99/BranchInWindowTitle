@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.github.kumachan99.branchtitle</id>
-    <name>Branch in Window Title</name>
+    <name>Branch Name in Title</name>
     <vendor email="kumachan99@users.noreply.github.com" url="https://github.com/kumachan99/branch-window-title">kumachan99</vendor>
 
     <description><![CDATA[
