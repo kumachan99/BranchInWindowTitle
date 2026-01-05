@@ -24,6 +24,11 @@
     ]]></description>
 
     <change-notes><![CDATA[
+    <b>1.0.1</b>
+    <ul>
+        <li>Improved plugin icon design / プラグインアイコンのデザインを改善</li>
+    </ul>
+
     <b>1.0.0</b>
     <ul>
         <li>Initial release / 初回リリース</li>
