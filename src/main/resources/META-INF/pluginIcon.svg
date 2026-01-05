@@ -34,9 +34,9 @@
     <!-- Branch fork: horizontal then curve up -->
     <path d="M28 9.4 L31 9.4 Q32 9 32 7.7"/>
     <!-- Commit dots -->
-    <circle cx="28" cy="7" r="1" fill="#FFFFFF" stroke="none"/>
-    <circle cx="28" cy="11" r="1" fill="#FFFFFF" stroke="none"/>
-    <circle cx="32" cy="7" r="1" fill="#FFFFFF" stroke="none"/>
+    <circle cx="28" cy="7" r="0.9" fill="#FFFFFF" stroke="none"/>
+    <circle cx="28" cy="11" r="0.9" fill="#FFFFFF" stroke="none"/>
+    <circle cx="32" cy="7" r="0.9" fill="#FFFFFF" stroke="none"/>
   </g>
 
   <!-- Content area - code lines -->
